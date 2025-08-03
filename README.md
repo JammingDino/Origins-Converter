@@ -2,9 +2,6 @@
 
 A simple yet powerful desktop tool for converting Minecraft datapacks into complete, working Fabric mods. This tool provides a clean user interface to automate the process of packaging your datapack into a distributable `.jar` mod file.
 
-![Screenshot of the application](screenshot.png)
-*(**Action for you:** Take a screenshot of the application running and save it as `screenshot.png` in your project's main folder.)*
-
 ## Features
 
 - **Modern GUI:** A clean and user-friendly interface built with CustomTkinter.
